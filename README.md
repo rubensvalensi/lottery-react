@@ -1,2 +1,5 @@
-# Simple lottery Smart Contract
-Build simple solidity smart contract &amp; app to enter a lottery
+### Simple react app for lottery 
+
+# npm run start 
+
+It'll open local host 
